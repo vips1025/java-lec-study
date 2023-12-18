@@ -1,0 +1,47 @@
+[33mcommit 63ffb87462fed626da313772cef08b4f2874ec1f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Mon Dec 18 10:45:07 2023 +0900
+
+    선택정렬까지 공부
+
+[33mcommit 8a1f6e9cd3883c0ad5b2686511a095fc262bcbfb[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Wed Dec 13 17:31:09 2023 +0900
+
+    섭씨 화씨 온도 변환 구하기
+
+[33mcommit 92f38f97f166e499345aac6051e7f4500527b890[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Wed Dec 13 14:40:02 2023 +0900
+
+    heap 공부
+
+[33mcommit 8f7210b9814b409636680c0bbc83dbbdff23b07f[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Wed Dec 13 12:40:37 2023 +0900
+
+    static 공부
+
+[33mcommit 76a6174f91bc8b66ef9cd419538f590641e91e4c[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Wed Dec 13 11:16:47 2023 +0900
+
+    캐스팅과 상수
+
+[33mcommit 0ef85458946b290aad5a18e8dc822915fd29fbea[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Tue Dec 12 15:15:33 2023 +0900
+
+    README upload
+
+[33mcommit 62b24c9bf1d42f15fef7104d3889197653f6cf06[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Tue Dec 12 12:47:58 2023 +0900
+
+    변수
+
+[33mcommit 1113a69b86921a1435ca296dc92083911e65e53b[m
+Author: vips1025 <vips1025@gmail.com>
+Date:   Tue Dec 12 10:27:20 2023 +0900
+
+    init
